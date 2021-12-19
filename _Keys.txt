@@ -1,0 +1,13 @@
+'s_' for shift
+'c_' for control
+'a_' for alt
+'e_' for enter
+'__' for space
+'|' for \
+'n(number)' for numpad keys
+'n(+-/*)' for numpad operator keys
+
+for everything else use the same character as the key
+
+function keys are not added(because i don't think anybody uses them .3.")
+if you want to add them, got to config.py and add the key character and and its virtual key code in kcd dictionary
