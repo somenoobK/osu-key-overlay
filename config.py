@@ -67,7 +67,9 @@ kcd = {
 	'n-':0x6D,
 	'n.':0x6E,
 	'n/':0x6F,
-	'e_':0x0D
+	'e_':0x0D,
+	'm1':0x01,
+	'm2':0x02
 	}
 
 file = 'config.ini'
